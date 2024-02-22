@@ -1,6 +1,6 @@
 
 # NETFLIX RECOMMENDER SYSTEM
-
+https://github.com/Ugofebe/netflix-recommender-system.git
 
 
 The **Netflix Recommender System** is a web application that provides movie recommendations based on content similarity. It utilizes data scraped from Wikipedia, specifically focusing on American movies. The recommender system is built using Flask, JavaScript, HTML, CSS, and other relevant libraries. The system incorporates features such as movie search, similar movie recommendations, top cast members, comments, average rating, release date, genre, runtime, and status.
@@ -56,7 +56,7 @@ The Netflix Recommender System is licensed under the MIT License.
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [nnajivictorious@gmal.com](mailto:ugofebe@gmal.com).
+If you have any questions, suggestions, or feedback, please feel free to contact the project maintainer at [ugofebe@gmail.com](mailto:ugofebe@gmal.com).
 
 Thank you for using the Netflix Recommender System! Enjoy discovering new movies tailored to your preferences.
 
